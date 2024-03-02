@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BookBestSellers/static/css/main.6c964aea.css",
+    "main.js": "/BookBestSellers/static/js/main.c9c63c91.js",
+    "index.html": "/BookBestSellers/index.html",
+    "main.6c964aea.css.map": "/BookBestSellers/static/css/main.6c964aea.css.map",
+    "main.c9c63c91.js.map": "/BookBestSellers/static/js/main.c9c63c91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c964aea.css",
+    "static/js/main.c9c63c91.js"
+  ]
+}
