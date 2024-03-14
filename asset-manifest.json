@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/meena-grocery/static/css/main.69dbdc8f.css",
-    "main.js": "/meena-grocery/static/js/main.929be586.js",
-    "index.html": "/meena-grocery/index.html",
-    "main.69dbdc8f.css.map": "/meena-grocery/static/css/main.69dbdc8f.css.map",
-    "main.929be586.js.map": "/meena-grocery/static/js/main.929be586.js.map"
+    "main.css": "/grocery-meena/static/css/main.69dbdc8f.css",
+    "main.js": "/grocery-meena/static/js/main.929be586.js",
+    "index.html": "/grocery-meena/index.html",
+    "main.69dbdc8f.css.map": "/grocery-meena/static/css/main.69dbdc8f.css.map",
+    "main.929be586.js.map": "/grocery-meena/static/js/main.929be586.js.map"
   },
   "entrypoints": [
     "static/css/main.69dbdc8f.css",
